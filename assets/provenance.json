@@ -1,0 +1,281 @@
+{
+  "purpose": "Website-owned copies of approved Moodumi artwork and unmodified native app captures",
+  "source_root": "/Users/minh/Documents/Projects/Moodumi",
+  "sources": {
+    "leo": {
+      "path": "/Users/minh/Documents/Projects/Moodumi/Moodumi/Resources/JournalLeo/journal-leo-poster.png",
+      "sha256": "9d028543b8e0105681774b406511cdc01dee28782f9d2d4d6ba35a5a13b6b065",
+      "width": 1217,
+      "height": 1293,
+      "unchanged_after_generation": true
+    },
+    "garden": {
+      "path": "/Users/minh/Documents/Projects/Moodumi/Moodumi/Resources/GrowthLeo/growth-landscape.png",
+      "sha256": "05317cc4c3c0edc876de47066784fe3001b3642a994a5b1d2a8fc1c6b630a337",
+      "width": 2079,
+      "height": 756,
+      "unchanged_after_generation": true
+    },
+    "icon": {
+      "path": "/Users/minh/Documents/Projects/Moodumi/Moodumi/Assets.xcassets/AppIcon.appiconset/moodumi-app-icon.png",
+      "sha256": "ac3a7b87d23213db171c649e0b011dafcfb7189a82371cb868a637bf13ffa931",
+      "width": 1024,
+      "height": 1024,
+      "unchanged_after_generation": true
+    },
+    "screenshot-check-in": {
+      "path": "/Users/minh/Documents/Projects/Moodumi/Release/AppStore/en/raw/iphone-medium/01-check-in.png",
+      "sha256": "8db65a4c0f97a7394f0eb2fd37048a104bddcd4834523b422bfcddfa635e4cb6",
+      "width": 1206,
+      "height": 2622,
+      "unchanged_after_generation": true
+    },
+    "screenshot-journal": {
+      "path": "/Users/minh/Documents/Projects/Moodumi/Release/AppStore/en/raw/iphone-medium/02-journal.png",
+      "sha256": "f6670df2654a2b74a3c316ab1ba4a1313f6faeab7b1c3d620ff50e05a63deef8",
+      "width": 1206,
+      "height": 2622,
+      "unchanged_after_generation": true
+    },
+    "screenshot-insights": {
+      "path": "/Users/minh/Documents/Projects/Moodumi/Release/AppStore/en/raw/iphone-medium/03-insights.png",
+      "sha256": "6657b87c348ba0f41919e0b753f290614173c589deb8d18b54091e8bacd8e7c4",
+      "width": 1206,
+      "height": 2622,
+      "unchanged_after_generation": true
+    },
+    "screenshot-growth": {
+      "path": "/Users/minh/Documents/Projects/Moodumi/Release/AppStore/en/raw/iphone-medium/04-growth.png",
+      "sha256": "c225878269912b7ce5749b167e9a2745ae512dce04cbde3395c95fb6e7f2da31",
+      "width": 1206,
+      "height": 2622,
+      "unchanged_after_generation": true
+    },
+    "screenshot-ipad": {
+      "path": "/Users/minh/Documents/Projects/Moodumi/Release/AppStore/en/raw/ipad-13/03-insights.png",
+      "sha256": "25b73ed16868c3c5b14e69e7c9174368dc890a4d9c3ac22e50405315bcc3bf6d",
+      "width": 2064,
+      "height": 2752,
+      "unchanged_after_generation": true
+    }
+  },
+  "renditions": {
+    "leo.png": {
+      "source_key": "leo",
+      "operation": "Byte-for-byte copy of approved source",
+      "width": 1217,
+      "height": 1293,
+      "mode": "RGBA",
+      "bytes": 1778069,
+      "sha256": "9d028543b8e0105681774b406511cdc01dee28782f9d2d4d6ba35a5a13b6b065"
+    },
+    "garden.png": {
+      "source_key": "garden",
+      "operation": "Byte-for-byte copy of approved source",
+      "width": 2079,
+      "height": 756,
+      "mode": "RGBA",
+      "bytes": 1393828,
+      "sha256": "05317cc4c3c0edc876de47066784fe3001b3642a994a5b1d2a8fc1c6b630a337"
+    },
+    "leo-480.webp": {
+      "source_key": "leo",
+      "operation": "Proportional Lanczos resize, WebP quality 91, alpha retained where present",
+      "width": 480,
+      "height": 510,
+      "mode": "RGBA",
+      "bytes": 54690,
+      "sha256": "73551ab040f9920ee63a0fa4403a67f862bf2a6d97c43ad5820cbe8edbf2d60f"
+    },
+    "leo-800.webp": {
+      "source_key": "leo",
+      "operation": "Proportional Lanczos resize, WebP quality 91, alpha retained where present",
+      "width": 800,
+      "height": 850,
+      "mode": "RGBA",
+      "bytes": 126958,
+      "sha256": "62a0e47ecc1dce0165d527f7799893bda726bfba61e30d6848bf3c803c486985"
+    },
+    "garden.webp": {
+      "source_key": "garden",
+      "operation": "Proportional Lanczos resize, WebP quality 89, alpha retained where present",
+      "width": 1600,
+      "height": 582,
+      "mode": "RGBA",
+      "bytes": 92688,
+      "sha256": "de3a15e25fdaf616e6e67c12e266eb3d10f338e0e2fa2899080d867cfb868e89"
+    },
+    "screenshot-check-in.png": {
+      "source_key": "screenshot-check-in",
+      "operation": "Byte-for-byte copy of approved source",
+      "width": 1206,
+      "height": 2622,
+      "mode": "RGB",
+      "bytes": 2179205,
+      "sha256": "8db65a4c0f97a7394f0eb2fd37048a104bddcd4834523b422bfcddfa635e4cb6"
+    },
+    "screenshot-check-in-480.webp": {
+      "source_key": "screenshot-check-in",
+      "operation": "Proportional Lanczos resize, WebP quality 90, alpha retained where present",
+      "width": 480,
+      "height": 1044,
+      "mode": "RGB",
+      "bytes": 49340,
+      "sha256": "412a9085f2b6c495d63d015e326b7f6e159e1c8192b59b5d123edabb3ab3e399"
+    },
+    "screenshot-check-in-800.webp": {
+      "source_key": "screenshot-check-in",
+      "operation": "Proportional Lanczos resize, WebP quality 90, alpha retained where present",
+      "width": 800,
+      "height": 1739,
+      "mode": "RGB",
+      "bytes": 96662,
+      "sha256": "4f138e8a5a62ba4c4a781a8c9ce3c324c74b5cf3e54bed691fd4e2b0ac56852a"
+    },
+    "screenshot-journal.png": {
+      "source_key": "screenshot-journal",
+      "operation": "Byte-for-byte copy of approved source",
+      "width": 1206,
+      "height": 2622,
+      "mode": "RGB",
+      "bytes": 1404106,
+      "sha256": "f6670df2654a2b74a3c316ab1ba4a1313f6faeab7b1c3d620ff50e05a63deef8"
+    },
+    "screenshot-journal-480.webp": {
+      "source_key": "screenshot-journal",
+      "operation": "Proportional Lanczos resize, WebP quality 90, alpha retained where present",
+      "width": 480,
+      "height": 1044,
+      "mode": "RGB",
+      "bytes": 39122,
+      "sha256": "366952f4fad274d2f8553225dd17dc6915dfc5a9e5abaa5b0ce8d0626bd27eff"
+    },
+    "screenshot-journal-800.webp": {
+      "source_key": "screenshot-journal",
+      "operation": "Proportional Lanczos resize, WebP quality 90, alpha retained where present",
+      "width": 800,
+      "height": 1739,
+      "mode": "RGB",
+      "bytes": 73318,
+      "sha256": "834fd30d97068b65e7e8b75b1a896defd8ccbaa7c661760608bdc5dcae367cec"
+    },
+    "screenshot-insights.png": {
+      "source_key": "screenshot-insights",
+      "operation": "Byte-for-byte copy of approved source",
+      "width": 1206,
+      "height": 2622,
+      "mode": "RGB",
+      "bytes": 746452,
+      "sha256": "6657b87c348ba0f41919e0b753f290614173c589deb8d18b54091e8bacd8e7c4"
+    },
+    "screenshot-insights-480.webp": {
+      "source_key": "screenshot-insights",
+      "operation": "Proportional Lanczos resize, WebP quality 90, alpha retained where present",
+      "width": 480,
+      "height": 1044,
+      "mode": "RGB",
+      "bytes": 31674,
+      "sha256": "bc69bb1946e2b2bbdc7836925e307390b2de5c82dbfa32b4fce7ac60f1f39596"
+    },
+    "screenshot-insights-800.webp": {
+      "source_key": "screenshot-insights",
+      "operation": "Proportional Lanczos resize, WebP quality 90, alpha retained where present",
+      "width": 800,
+      "height": 1739,
+      "mode": "RGB",
+      "bytes": 59364,
+      "sha256": "2f6271f30706192250ccec4dcbb6a130828a6676a74e644002544290b7b43ea2"
+    },
+    "screenshot-growth.png": {
+      "source_key": "screenshot-growth",
+      "operation": "Byte-for-byte copy of approved source",
+      "width": 1206,
+      "height": 2622,
+      "mode": "RGB",
+      "bytes": 720808,
+      "sha256": "c225878269912b7ce5749b167e9a2745ae512dce04cbde3395c95fb6e7f2da31"
+    },
+    "screenshot-growth-480.webp": {
+      "source_key": "screenshot-growth",
+      "operation": "Proportional Lanczos resize, WebP quality 90, alpha retained where present",
+      "width": 480,
+      "height": 1044,
+      "mode": "RGB",
+      "bytes": 54060,
+      "sha256": "b39dae20b7712eb2b10db0a4505118fd50715026b977dac68c308877eec548b5"
+    },
+    "screenshot-growth-800.webp": {
+      "source_key": "screenshot-growth",
+      "operation": "Proportional Lanczos resize, WebP quality 90, alpha retained where present",
+      "width": 800,
+      "height": 1739,
+      "mode": "RGB",
+      "bytes": 101290,
+      "sha256": "cd2b2f6022feee32aeb131cf45fd26850c834730ada451a51fc515597ee03282"
+    },
+    "screenshot-ipad.png": {
+      "source_key": "screenshot-ipad",
+      "operation": "Byte-for-byte copy of approved source",
+      "width": 2064,
+      "height": 2752,
+      "mode": "RGB",
+      "bytes": 2126018,
+      "sha256": "25b73ed16868c3c5b14e69e7c9174368dc890a4d9c3ac22e50405315bcc3bf6d"
+    },
+    "screenshot-ipad-900.webp": {
+      "source_key": "screenshot-ipad",
+      "operation": "Proportional Lanczos resize, WebP quality 90, alpha retained where present",
+      "width": 900,
+      "height": 1200,
+      "mode": "RGB",
+      "bytes": 35128,
+      "sha256": "d5d582e9ec11835558a8988a4df400b5e896d854597bc2aae78226df27308165"
+    },
+    "screenshot-ipad-1400.webp": {
+      "source_key": "screenshot-ipad",
+      "operation": "Proportional Lanczos resize, WebP quality 90, alpha retained where present",
+      "width": 1400,
+      "height": 1867,
+      "mode": "RGB",
+      "bytes": 63552,
+      "sha256": "75b554fc2a9a206173fbb6044b5648f79388af3e871ea84ec2e9f73bb01600d0"
+    },
+    "favicon-32.png": {
+      "source_key": "icon",
+      "operation": "Proportional Lanczos resize to square; no added corner mask",
+      "width": 32,
+      "height": 32,
+      "mode": "RGB",
+      "bytes": 2020,
+      "sha256": "b0139875bd32bee55e22a6647edb4ddddeb9bcf584cb35a3a79a434079f02656"
+    },
+    "favicon-192.png": {
+      "source_key": "icon",
+      "operation": "Proportional Lanczos resize to square; no added corner mask",
+      "width": 192,
+      "height": 192,
+      "mode": "RGB",
+      "bytes": 38089,
+      "sha256": "a1d20aa1e3f339a783b3f04008a8946c0a9a1782a937ddbcffa0f74773d1f828"
+    },
+    "apple-touch-icon.png": {
+      "source_key": "icon",
+      "operation": "Proportional Lanczos resize to square; no added corner mask",
+      "width": 180,
+      "height": 180,
+      "mode": "RGB",
+      "bytes": 34978,
+      "sha256": "3bf36b84016fdfc0e0543b16f848c57508e707666ed3e8e3491a7bf0c0f5b6cd"
+    },
+    "social-preview.png": {
+      "source_key": "leo",
+      "operation": "Social composition with approved Leo, system rounded typography, and cream/peach gradient",
+      "width": 1200,
+      "height": 630,
+      "mode": "RGB",
+      "bytes": 287873,
+      "sha256": "6069e4b6b1ee304aecc0b40d8bf2bb07bb9e042d992885dca015db00fcb635a9"
+    }
+  },
+  "generation": "Pillow; proportional resizing, format optimization, and social typography only. No artwork redrawing."
+}
